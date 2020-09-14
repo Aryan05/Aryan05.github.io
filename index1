@@ -1,0 +1,460 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162606732-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-162606732-1');
+  </script>
+
+
+  <title>Aryan Karn</title>
+
+  <meta name="author" content="Aryan Karn">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="icon" type="image/png" href="images/bits.png">
+</head>
+
+<body>
+  <table
+    style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table
+            style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr style="padding:0px">
+                <td style="padding:2.5%;width:63%;vertical-align:middle">
+                  <p style="text-align:center">
+                    <name>Aryan Karn</name>
+                  </p>
+                  <p>
+                    I am a 3rd year undergraduate student at <a href="">Motilal Nehru National Institite of Technology Allahabad, India</a> where I study Electronics and Communicition Engineering. I am specializing in the field of Artificial Intelligence.
+                  </p>  
+                  <p>
+                      I have been extremely fortunate to be able to voluntare for     <a href=""> RED CROSS NEPAL</a> and also intern for  <a href=""> Agriculture Development Bank, Nepal.</a> Currently I am doing a research intern at <a href="">Institute of Engineering, IOE,  Pulchowk Engineering Campus</a> on model-based reinforcement learning inspired by cognitive theories.
+                  </p>
+                  <p>
+                    I am interested in the
+                    symbiotic
+                    relationship between AI and cognitive science i.e. AI to better understand the brain and cognitive
+                    theories to help build better AI models.
+                  </p>
+                  <p style="text-align:center">
+                    <a href="mailto:ajaysubramanian110@gmail.com">Email</a> &nbsp/&nbsp
+                    <a href="data/CV.pdf">CV</a> &nbsp/&nbsp
+                    <a href="https://www.github.com/ajaysub110">GitHub</a> &nbsp/&nbsp
+                    <a href="https://www.linkedin.com/in/ajaysub110/">LinkedIn</a> &nbsp/&nbsp
+                    <a href="data/bio.txt">Bio</a> &nbsp/&nbsp
+                    <a href="https://scholar.google.com/citations?user=6cyu_EgAAAAJ&hl=en">Google Scholar</a>
+                    &nbsp/&nbsp
+                    <a href="https://www.twitter.com/ajaysub110">Twitter</a>
+                  </p>
+                </td>
+                <td style="padding:2.5%;width:40%;max-width:40%">
+                  <a href="images/profile.jpg"><img style="width:100%;max-width:100%" alt="profile photo"
+                      src="images/profile.jpg" class="hoverZoomLink"></a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table
+            style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr>
+                <td style="padding:20px;width:100%;vertical-align:middle">
+                  <heading>Updates</heading>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table
+            style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;margin-top:-15px">
+            <tbody>
+              <tr>
+                <td style="padding:0px;width:100%;vertical-align:middle">
+                  <ul>
+                    <li><b>Sep 5, 2020:</b> I have been working on <a
+                        href="">Word2Brain2Image</a> research project.
+                    <li><b>Aug 6, 2020:</b> I will be attending the <a href="https://cbmm.mit.edu/summer-school/2020">MIT
+                        Brain, Minds, and Machines Summer Course</a> starting from August 10th!
+                    
+                    <li><b>Jun 18, 2020:</b> I was the lead speaker at <a href="http://ainepal.org/category/events/">AI Nepal.org</a> held virtually on TF.Keras and Image Classification.
+                    <li><b>May 5, 2020:</b> I have been selected to work on<a href="https://covid19.mohp.gov.np/"> covid19.mohp.gov.np</a> for the Morang District.
+                    <li><b>Feb 9, 2020:</b> I won the <a href="">INTER-NIT Lawn Tennis</a> competation. 
+                    </li>
+                    
+                    
+                  </ul>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table
+            style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr>
+                <td style="padding:20px;width:100%;vertical-align:middle">
+                  <heading>Research</heading>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table
+            style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+
+
+              <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='nerf_image'>
+                      <img src='images/wbi.png' width="160" height="160">
+                    </div>
+                    <script type="text/javascript">
+                      function nerf_start() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+
+                      function nerf_stop() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+                      nerf_stop()
+                    </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <papertitle>Word2Brain2Image: Visual Reconstruction from Spoken Word Representations
+                  </papertitle>
+                  <br>
+                  <strong>Ajay Subramanian</strong>,
+                  <a href="https://rajaswa.github.io/">Rajaswa Patil</a>,
+                  <a href="https://universe.bits-pilani.ac.in/goa/veeky/profile">Veeky Baths</a>
+                  <br>
+                  <em>ACCS</em>, 2019 (Poster)
+                  <br>
+                  <a href="https://github.com/ajaysub110/wbi">code</a>
+                  / <a href="data/Word2Brain2Image-ACCS2019.pdf">poster</a>
+                  <p></p>
+                  <p>
+                    Collected EEG data of subjects listening to spoken object words. We attempted to use deep generative
+                    models to generate images of objects using only this EEG data, in order to study internal
+                    representations in visual association areas (BA 18,19) of the brain.</p>
+                </td>
+              </tr>
+
+              <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='nerf_image'>
+                      <img src='images/snn_lgn.png' width="160" height="160">
+                    </div>
+                    <script type="text/javascript">
+                      function nerf_start() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+
+                      function nerf_stop() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+                      nerf_stop()
+                    </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <papertitle>Spiking Neural Networks of Vision Implemented on SpiNNaker to Validate Experimental Data
+                  </papertitle>
+                  <br>
+                  <a href="https://www.research.manchester.ac.uk/portal/riccardo.storchi.html">Riccardo Storchi</a>,
+                  <strong>Ajay Subramanian</strong>,
+                  <a href="https://www.bits-pilani.ac.in/goa/basabdattab/profile">Basabdatta Sen Bhattacharya</a>
+                  <br>
+                  <br>
+                  <a href="data/LGN_irradiance_poster_Ajay_Subramanian.pdf">poster</a>
+                  / <a href="data/Project_Report_Ajay_Subramanian.pdf">report</a>
+                  <p></p>
+                  <p>
+                    Using a SpiNNaker spiking neural network model to validate physiological results relating to LGN
+                    synchrony, periodicity and response to varying background luminance in a mouse brain.</p>
+                </td>
+              </tr>
+
+              <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='nerf_image'>
+                      <img src='images/gsoc.jpeg' width="160" height="160">
+                    </div>
+                    <script type="text/javascript">
+                      function nerf_start() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+
+                      function nerf_stop() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+                      nerf_stop()
+                    </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <papertitle>TensorGeNN
+                  </papertitle>
+                  <br>
+                  <em>Google Summer of Code 2019 with <a href="https://incf.org">INCF</a></em>
+                  <br>
+                  <a href="https://github.com/ajaysub110/tensor_genn">code</a>
+                  / <a href="data/gsoc_report.html">report</a>
+                  <p></p>
+                  <p>
+                    Developed a Python library to convert trained TensorFlow deep learning models to spiking neural
+                    network models with minimal losses in performance.</p>
+                </td>
+              </tr>
+
+            </tbody>
+          </table>
+
+          <table
+            style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr>
+                <td style="padding:20px;width:100%;vertical-align:middle">
+                  <heading>Projects</heading>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table
+            style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+
+              <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='nerf_image'>
+                      <img src='images/genrl.png' width="160" height="160">
+                    </div>
+                    <script type="text/javascript">
+                      function nerf_start() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+
+                      function nerf_stop() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+                      nerf_stop()
+                    </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <papertitle>GenRL</papertitle>
+                  <br>
+                  <a href="https://www.saidl.in/">Society for Artificial Intelligence and Deep Learning (SAiDL)</a>
+                  <br>
+                  <a href="https://github.com/SforAiDL/genrl">code</a>
+                  <p></p>
+                  <p>
+                    A PyTorch reinforcement learning library for generalizable and reproducible algorithm
+                    implementations.
+                  </p>
+                </td>
+              </tr>
+
+              <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='nerf_image'>
+                      <img src='images/rlin200lines.png' width="160" height="160">
+                    </div>
+                    <script type="text/javascript">
+                      function nerf_start() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+
+                      function nerf_stop() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+                      nerf_stop()
+                    </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <papertitle>Image Caption Generator
+                  </papertitle>
+                  <br>
+                  <a href="https://github.com/Aryan05/ImageCaptionGenerator">code</a>
+                  <p></p>
+                  <p>
+                    Image captioning with vanilla RNNs and LSTMs on the COCO dataset. Network visualizations and style transfer on SqueezeNet, which is a deep CNN pretrained to perform image classification on ImageNet.</p>
+                </td>
+              </tr>
+               
+              <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='nerf_image'>
+                      <img src='images/pneumonia.jpeg' width="160" height="160">
+                    </div>
+                    <script type="text/javascript">
+                      function nerf_start() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+
+                      function nerf_stop() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+                      nerf_stop()
+                    </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <papertitle>FaceGenerating GAN
+                  </papertitle>
+                  <br>
+                  <a href="https://github.com/Aryan05/FaceGenerating_GAN">code</a>
+                  <p></p>
+                  <p>In this project, I am generating human faces which probably does not exist in real life. I will be using the generative adversarial network(GAN) for the task. I am using CelebA dataset for training the network. This dataset contains 2,00,000 images of well-known people.
+                    </p>
+                </td>
+              </tr>
+                
+              <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='nerf_image'>
+                      <img src='images/pneumonia.jpeg' width="160" height="160">
+                    </div>
+                    <script type="text/javascript">
+                      function nerf_start() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+
+                      function nerf_stop() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+                      nerf_stop()
+                    </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <papertitle>Mask RCNN and Computer Vision based Lane Detectionusing
+                  </papertitle>
+                  <br>
+                  <a href="https://github.com/Aryan05/R_CNN-SelfDrivingCar">code</a>
+                  <p></p>
+                  <p>I've implemented the Vehicle Detection using Mask R-CNN and Computer Vision based Lane Detectionusing on Keras and TensorFlow. The model detects vehicles in the image frame using segmentation masks with the pretrained weights trained on COCO dataset; the lane detection is done using sobel filter.
+                    </p>
+                </td>
+              </tr>    
+              <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='nerf_image'>
+                      <img src='images/pneumonia.jpeg' width="160" height="160">
+                    </div>
+                    <script type="text/javascript">
+                      function nerf_start() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+
+                      function nerf_stop() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+                      nerf_stop()
+                    </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <papertitle>seq2seq ENFLISHtoFRENCH translation
+                  </papertitle>
+                  <br>
+                  <a href="https://github.com/Aryan05/seq2seq_ENFLISHtoFRENCHtranslation">code</a>
+                  <p></p>
+                  <p>An open source implementation of Machine Translation english to french using Seq2Seq Attention model in PyTorch.
+                    </p>
+                </td>
+              </tr>    
+    
+              <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='nerf_image'>
+                      <img src='images/pneumonia.jpeg' width="160" height="160">
+                    </div>
+                    <script type="text/javascript">
+                      function nerf_start() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+
+                      function nerf_stop() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+                      nerf_stop()
+                    </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <papertitle>Epileptic Seizure Detection Based on EEG Signals
+                  </papertitle>
+                  <br>
+                  <a href="https://github.com/Aryan05/Epileptic-Seizure-Detection-Based-on-EEG-Signals">code</a>
+                  <p></p>
+                  <p>An open source implementation of ChronoNet.
+                    </p>
+                </td>
+              </tr>    
+
+              <tr onmouseout="nerf_stop()" onmouseover="nerf_start()">
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <div class="two" id='nerf_image'>
+                      <img src='images/pneumonia.jpeg' width="160" height="160">
+                    </div>
+                    <script type="text/javascript">
+                      function nerf_start() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+
+                      function nerf_stop() {
+                        document.getElementById('nerf_image').style.opacity = "1";
+                      }
+                      nerf_stop()
+                    </script>
+                </td>
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <papertitle>Pneumonia Detection using Deep Learning
+                  </papertitle>
+                  <br>
+                  <a href="https://github.com/Aryan05/Pneumonia_Detection_CNN">code</a>
+                  <p></p>
+                  <p>
+                    Research Project in unofficial collaboration with TCS Research. Applying State of the art models for pneumonia detection on RSNA pneumonia detection dataset. Tested InceptionNet-v3, DenseNet121 and explored Mask RCNN applicability for the dataset. Got 83.8% and 77.9% classification accuracy respectively.
+                    </p>
+                </td>
+              </tr>
+
+            </tbody>
+          </table>
+          <table
+            style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr>
+                <td style="padding:0px">
+                  <br>
+                  <p style="text-align:right;font-size:small;">
+                    <a href="https://github.com/jonbarron/jonbarron_website">Template</a>
+                  </p>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+  </table>
+</body>
+
+</html>
